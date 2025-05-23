@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victhor and I'm a FullStack Developer from Brazil</p>
+<p align="left">Hi, I'm Victhor — a Full Stack Developer from Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning</p>
+<p align="left">I'm a passionate student currently exploring the world of web development, working on both front-end and back-end projects. I enjoy learning new technologies and building real-world applications as I grow my skills in software development.</p>
 
 ###
 
